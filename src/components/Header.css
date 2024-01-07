@@ -1,0 +1,30 @@
+nav {
+    background-color: #36393ba4;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    height: 15vh;
+    width: 80vw;
+    margin: 0vh 10vw;
+    margin-bottom: 15vh;
+}
+
+nav h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+nav h1 span {
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+    /* color:rgba(74, 72, 72, 0.584) */
+}
+nav h1 span:hover {
+    font-size: 65px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color:rgba(74, 72, 72, 0.584);
+    cursor: pointer;
+}
